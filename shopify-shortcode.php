@@ -3,7 +3,7 @@
  * Plugin Name: Shopify Shortcode
  * Plugin URI: https://divi.tech
  * Description: Allows the usage of shopify emebed code into Divi Builder
- * Version: 1.0
+ * Version: 1.0.1
  * Author: Eduard Ungureanu
  * Author URI: https://divi.tech
  * Requires at least: 4.9.6
